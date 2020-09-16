@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 👤[facebook]**/**
 📷 [instagram] **/** 
-👔[linkedin] **/**
+👔[linkedin] 
 
 [facebook]: https://www.facebook.com/dilki.ruwanpathirana.1/
 [instagram]:https://www.instagram.com/dilki__r/
