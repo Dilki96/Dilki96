@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I ❤️ 🐶
 
 [facebook]: https://www.facebook.com/dilki.ruwanpathirana.1/
-[instagram]: https://www.instagram.com/dilki__r/
+📷 [instagram] [instagram] **/** 
 [linkedin]: https://www.linkedin.com/in/dilki-ruwanpathirana-0222b3189/
+
+
+[instagram]:https://www.instagram.com/dilki__r/
 -->
 
 
