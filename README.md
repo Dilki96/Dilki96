@@ -10,8 +10,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with design.
 - 🎓 Undergraduate.
 - 💬 Ask me about MYSQL, PHP & JAVA
-- 📫 How to reach me:dilkirywanpathirana16@gmail.com
+- 📫 How to reach me:dilkiruwanpathirana16@gmail.com
 - ⚡ Fun fact: I ❤️ 🐶
+
+[facebook]:
+[instagram]:
+[linkedin]:
 -->
 
 
