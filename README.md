@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me:dilkiruwanpathirana16@gmail.com
 - ⚡ Fun fact: I ❤️ 🐶
 
-👤[facebook]**/**
-📷 [instagram] **/** 
+👤[facebook]**|**
+📷 [instagram] **|** 
 👔[linkedin] 
 
 [facebook]: https://www.facebook.com/dilki.ruwanpathirana.1/
