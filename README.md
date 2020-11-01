@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning Adobe Adobe Photoshop ,Illustrator, CorelDRAW & Laravel.
+- 🌱 I’m currently learning  Adobe Photoshop ,Illustrator & JAVA EE.
 - 👯 I’m looking to collaborate on creating content!
 - 🎓 Undergraduate.
 - 💬 Ask me about MYSQL, PHP & JAVA
